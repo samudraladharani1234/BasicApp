@@ -6,7 +6,7 @@ public class Triangle {
 	
 	public void draw(){
 	
-		System.out.println("Drawing a triangle");
+		System.out.println("Drawing triangle");
 		
 	}
 
